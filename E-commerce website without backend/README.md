@@ -39,9 +39,12 @@ To view the project locally:
 
 ## 🎨 Screenshots
 
-- **Home Page**: [assets/Home_Page.png]
-- **Products Page**: [assets/Product_Page_SS1.png] 
-Product_Page_SS2
+- **Home Page**: 
+  ![Home Page](assets/Home_Page.png)
+
+- **Products Page**: 
+  ![Products Page - Layout 1](assets/Product_Page_SS1.png)
+  ![Products Page - Layout 2](assets/Product_Page_SS2.png)
 
 ## 📄 License
 
