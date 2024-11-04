@@ -66,6 +66,8 @@ Follow these steps to set up the project locally. This guide assumes you are not
      ```
    - This will install the necessary packages for the frontend.
 
+   ![Home Page](assets/Home_Page.png)
+
 3. **Set Up the Backend**:
    - Navigate to the backend folder in the project.
    - (Optional) Create a virtual environment for Python (recommended):
