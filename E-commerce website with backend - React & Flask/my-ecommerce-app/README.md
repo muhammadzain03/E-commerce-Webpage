@@ -1,4 +1,3 @@
-
 # TechVista Inc. E-commerce Web Application
 
 Welcome to the **TechVista Inc.** e-commerce web application! This project is a modern, easy-to-use online store where users can browse products, add them to their shopping cart, and proceed to checkout.
@@ -66,8 +65,6 @@ Follow these steps to set up the project locally. This guide assumes you are not
      ```
    - This will install the necessary packages for the frontend.
 
-   ![Home Page](assets/Home_Page.png)
-
 3. **Set Up the Backend**:
    - Navigate to the backend folder in the project.
    - (Optional) Create a virtual environment for Python (recommended):
@@ -98,7 +95,9 @@ Follow these steps to run both the frontend and backend servers.
      flask run
      ```
    - The backend will start running at [http://127.0.0.1:5000](http://127.0.0.1:5000).
-
+   
+   ![Back End Commands on CMD (Windows)](assets/starting_backend.png)
+     
 2. **Start the Frontend**:
    - In a new terminal or command prompt, navigate to the frontend folder.
    - Run:
@@ -106,6 +105,8 @@ Follow these steps to run both the frontend and backend servers.
      npm start
      ```
    - The frontend will start running at [http://localhost:3000](http://localhost:3000).
+   
+   ![Front End Commands on CMD (Windows)](assets/starting_frontend.png)
 
 Now, you can open [http://localhost:3000](http://localhost:3000) in your web browser to use the TechVista Inc. application.
 
@@ -116,6 +117,13 @@ Now, you can open [http://localhost:3000](http://localhost:3000) in your web bro
 3. **View Cart**: Click on the cart icon in the header to view items in your cart.
 4. **Adjust Quantities**: In the cart, you can adjust the quantity or remove items.
 5. **Checkout** (optional): If implemented, proceed to checkout after reviewing your cart.
+
+<p align="center">
+  <img src="assets/home_page.png" alt="Home Page" width="400"/>
+  <img src="assets/login_page.png" alt="Login Page" width="400"/>
+  <img src="assets/products_page.png" alt="Products Page" width="400"/>
+  <img src="assets/cart.png" alt="Cart Page" width="400"/>
+</p>
 
 ### File Structure
 
